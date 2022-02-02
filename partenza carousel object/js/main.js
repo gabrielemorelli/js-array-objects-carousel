@@ -32,7 +32,7 @@ let item = '';
 let thumb = '';
 let active = 1;
 
-for (let i = 0; i<items.length; i++) {
+for (let i = 0; i < items.length; i++) {
 
     item += `
         <div class="item">
